@@ -1,5 +1,5 @@
-const contractAddress = "0x6b02CCb9341a86594EAF0AB53880d3085071C6F0"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xF92Ec61b554Db726F6b8dd0908974bb2b786cAA1"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Crypto Football League NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
